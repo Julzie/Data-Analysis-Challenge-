@@ -10,7 +10,7 @@ The output has the following columns:
 5. Maximum balance (running sum) for the user at the end of each day
 
 
-1. To run the script:
+To run the script:
 	Run through command line with a parameter of the absolute path where the data files to be processed are stored. 
 	
   Example:
@@ -18,5 +18,5 @@ The output has the following columns:
 		<path>  ==> Folder with the files transactions1.csv, transactions2.csv and transactions3.csv
 		The script reads the content for the folder. Hence if there are other files that are unrelated, it will cause an error.
 
-2. Output:
+Output:
 	The script writes the results into an excel file which is created in the same folder where the data files are. 
