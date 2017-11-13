@@ -1,4 +1,4 @@
-# Data-Analysis-Challenge-
+# Data-Analysis-Challenge
 
 The script reads 3 CSV files, parses the data, creates row for each user (with users in   the original input order).
 The assumption is that there is too much data to fit in memory, hence I use data streaming. I also assume that the transactions for a single user fit in memory.
